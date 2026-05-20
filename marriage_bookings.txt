@@ -1,0 +1,12 @@
+Booking ID : 1
+Name       : ssss
+Phone      : 333
+CNIC       : 333
+Hall       : Pearl Marriage Hall
+Date       : 2323232
+Guests     : 11
+Package    : Basic Package
+Total Bill : Rs. 128800
+Paid       : Rs. 128800
+Balance    : Rs. 0
+-----------------------------
